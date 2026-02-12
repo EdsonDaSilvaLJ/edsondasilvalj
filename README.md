@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Edson 👋
 
-<!--
-**EdsonDaSilvaLJ/edsondasilvalj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on building reliable and well-structured systems.
 
-Here are some ideas to get you started:
+I enjoy working with APIs, data modeling, authentication flows and business rules.
+Always trying to understand how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech I work with
+
+- Python
+- Django & REST APIs
+- PostgreSQL
+- Git
+- Docker (learning / using)
+
+---
+
+## 📚 Currently learning
+
+- System design
+- Performance optimization
+- Software architecture
+
+---
+
+## 📌 What you'll find here
+
+Projects focused on backend development, clean architecture and practical problem solving.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/edson-silvalj
+- Email: edsondasilvalj@gmail.com
