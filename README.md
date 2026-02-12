@@ -11,6 +11,7 @@ Always trying to understand how things work under the hood.
 
 - Python
 - Django & REST APIs
+- React 
 - PostgreSQL
 - Git
 - Docker (learning / using)
