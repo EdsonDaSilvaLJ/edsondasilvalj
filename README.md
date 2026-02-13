@@ -13,12 +13,12 @@ Computer Science Student and Backend Developer focused on building reliable and 
 
 **Infrastructure & Tools**
 - Git, Docker, Linux
-- CI/CD Pipelines
+- CI/CD Pipelines (learning)
 
 **AI & Automation**
 - Enterprise AI Integrations
 - n8n (Workflow Automation)
-- LLM APIs & Agents
+- LLM APIs & Agents (exploring)
 
 ---
 
