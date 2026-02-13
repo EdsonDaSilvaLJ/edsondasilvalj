@@ -1,6 +1,6 @@
 # Hi, I'm Edson 👋
 
-Computer Science Student and Backend Developer focused on building reliable and well-structured systems.
+Computer Science Student at UFPI and Backend Developer focused on building reliable and well-structured systems.
 
 ---
 
