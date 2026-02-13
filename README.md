@@ -1,38 +1,36 @@
 # Hi, I'm Edson 👋
 
-Backend developer focused on building reliable and well-structured systems.
-
-I enjoy working with APIs, data modeling, authentication flows and business rules.
-Always trying to understand how things work under the hood.
+Computer Science Student and Backend Developer focused on building reliable and well-structured systems.
 
 ---
 
-## 🛠️ Tech I work with
+## 🛠️ Tech Stack
 
-- Python
-- Django & REST APIs
-- React 
+**Languages & Frameworks**
+- Python (Django & REST APIs)
+- React
 - PostgreSQL
-- Git
-- Docker (learning / using)
+
+**Infrastructure & Tools**
+- Git, Docker, Linux
+- CI/CD Pipelines
+
+**AI & Automation**
+- Enterprise AI Integrations
+- n8n (Workflow Automation)
+- LLM APIs & Agents
 
 ---
 
 ## 📚 Currently learning
 
-- System design
-- Performance optimization
-- Software architecture
-
----
-
-## 📌 What you'll find here
-
-Projects focused on backend development, clean architecture and practical problem solving.
+- System Design
+- Performance Optimization
+- Software Architecture
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/edson-silvalj
-- Email: edsondasilvalj@gmail.com
+- **LinkedIn:** [linkedin.com/in/edson-silvalj](https://www.linkedin.com/in/edson-silvalj)
+- **Email:** [edsondasilvalj@gmail.com](mailto:edsondasilvalj@gmail.com)
